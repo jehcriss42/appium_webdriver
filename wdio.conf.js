@@ -52,7 +52,7 @@ exports.config = {
     capabilities: [{
         platformName: 'Android',
         'appium:deviceName':'Android Emulator',
-        'appium:app':join(process.cwd(),'./app/app-jamesClient-debug.apk')   
+        'appium:app':join(process.cwd(),'./app/ApiDemos-debug.apk')   
     }],
     //
     // ===================
