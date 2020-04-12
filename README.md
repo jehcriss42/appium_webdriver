@@ -1,5 +1,5 @@
 # appium_webdriver
-Mobile test using appium and webdriver
+Mobile test using appium and webdriverIO
 
 ## Steps:
 
