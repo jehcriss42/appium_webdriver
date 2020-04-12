@@ -3,11 +3,9 @@ Mobile test using appium and webdriver
 
 ## Steps:
 
-- Install Appium Server
-Configure a real device or emulador mobile
-
-- Install
-Node.js and npm
+- Install: Appium Server
+- Configure a real device or emulador mobile
+- Install: Node.js and npm
 
 commands:
 
